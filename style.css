@@ -1,0 +1,128 @@
+
+.principal{
+    justify-content: center;
+    align-items: center;
+    background-color:aqua;
+    display: flex;
+    margin:0px auto;
+}
+
+.principal1{
+    align-items: center;
+    align-content: center;  
+    display: flex;
+}
+
+.menu{
+    right: 20px;
+    text-align: center;
+    justify-content: center;
+    margin-block-start: 1em;
+    background-color: antiquewhite;
+}
+.btnmenu{
+    text-decoration: none !important;
+    text-align: center;
+}
+
+img{
+    float: left;
+    width: 200px;
+    height: auto;
+    margin-right: 1em;
+    border-radius: 20%;
+    align-content: center;
+}
+
+.otro{
+    width: 300px;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin:0px auto;
+    font-size: 24px;
+    font-family:'Times New Roman', Times, serif;
+    }
+
+.col-md-8{
+    align-items: center;
+    text-align: center;
+}
+
+.card-text{
+    text-align:center;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.titulo{
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    display: flex;
+    margin:0px auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.estilo-x { font-size: calc(1em + 1vw) }
+
+.contenido{
+    display: inline-flex;  
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.enviar{
+    background-color: green;
+    color: white;
+    border-radius: 50px;
+}
+.titulomensaje{
+    color: black;
+    font-size: 15px;
+    display: flex;
+}
+
+
+.col-lg-4 my-3 my-lg-0 sa{
+    color: black;
+}
+
+.footer{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin:0px auto;
+   background-color:lightblue;
+}
+.btnfooter{
+    width: 30px;
+    height: auto;
+    color: #000;
+    font-size: 50px;
+}
+.error{
+    font-size: 12px;
+    color: red;
+    display: none;
+}
+
+.coment{
+    height: 100px;
+    width: 168px;
+}
+.cosas{
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    display: flex;
+    margin:0px auto;
+    
+
+}
+
+.btnmenu:hover{
+    color: red;
+}
